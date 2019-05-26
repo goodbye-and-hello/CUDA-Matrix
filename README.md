@@ -1,6 +1,7 @@
 # CUDA-Matrix
 Since : 2018.05.10
-Author : @ssibongee
+
+Author : [@ssibongee](https://github.com/ssibongee)
 
 Calculate Matrix Multiplication using  CUDA
 
